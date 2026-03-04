@@ -6,7 +6,7 @@ InfiniWar - a Text RPG game
 4/3/2026
 
 To Run:
-- Clone this repo to your local folder [https://github.com/g4ucheyy/InfiniWar.git]
+- Clone this repo to your local folder ```gh repo clone g4ucheyy/InfiniWar```
 - go to directory and compile ```g++ main.cpp gameMenu.cpp game.cpp -o main```
 - run it ```./main```
   
